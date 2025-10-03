@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Amit Kumar Mishra
+# Hi there 👋, I'm Amit Kumar Mishra!
 
 I'm a data scientist with over 5 years of experience delivering end-to-end data solutions across finance, marketing, and media tech domains. I specialize in exploratory data analysis, predictive modeling, ETL pipelines, and machine learning deployment using technologies like XGBoost, KNN, and SVM. I have a proven track record of building automated workflows that drive significant revenue growth and improve model accuracy.
 
@@ -13,10 +13,6 @@ I'm a data scientist with over 5 years of experience delivering end-to-end data 
 - **Power BI**
 - **Adobe Analytics**
 - **GA4 (Google Analytics 4)**
-- **SEMRush**
-- **Screaming Frog**
-- **Hubspot**
-- **Hotjar**
 
 ### Analytics & Modeling Techniques
 - Exploratory Data Analysis (EDA)
@@ -39,10 +35,5 @@ I'm a data scientist with over 5 years of experience delivering end-to-end data 
 ### Certifications
 - AWS Cloud Practitioner
 - Tableau
-- Deep Learning
-- Databricks
-- Google Analytics
 - Search Ads 360
-- Machine Learning
-- Alteryx
 - Databricks SQL
