@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋, I'm Amit Kumar Mishra
 
-<!--
-**der-amit/der-amit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist with over 5 years of experience delivering end-to-end data solutions across finance, marketing, and media tech domains. I specialize in exploratory data analysis, predictive modeling, ETL pipelines, and machine learning deployment using technologies like XGBoost, KNN, and SVM. I have a proven track record of building automated workflows that drive significant revenue growth and improve model accuracy.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+
+### Technical Skills
+- **SQL**
+- **Python**
+- **Tableau**
+- **Power BI**
+- **Adobe Analytics**
+- **GA4 (Google Analytics 4)**
+- **SEMRush**
+- **Screaming Frog**
+- **Hubspot**
+- **Hotjar**
+
+### Analytics & Modeling Techniques
+- Exploratory Data Analysis (EDA)
+- Extract, Transform, Load (ETL) Pipelines
+- Predictive Modeling (Logistic Regression, XGBoost, K-Nearest Neighbors, Support Vector Machines)
+- Machine Learning Deployment (Docker, Azure)
+- Marketing Mix Modeling (MMM)
+- A/B Testing and Conversion Optimization
+- Customer Segmentation and Clustering
+- Time Series Forecasting (SARIMA, Prophet)
+- Regression Modeling (including stepwise selection)
+- Data Visualization (Tableau, Streamlit, Power BI)
+
+### Business & Strategy
+- Data Strategy Development
+- Cross-functional Collaboration
+- Process Optimization
+- Stakeholder Communication
+
+### Certifications
+- AWS Cloud Practitioner
+- Tableau
+- Deep Learning
+- Databricks
+- Google Analytics
+- Search Ads 360
+- Machine Learning
+- Alteryx
+- Databricks SQL
